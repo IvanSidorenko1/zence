@@ -8,14 +8,14 @@
 
 :point_right: [як запустити проект](#start)
 
-## <a id="stack">Stack технологій використанних в проекті</a>
+## <a id="stack">Stack технологій використанних в проекті:</a>
 
 1. HTML
 2. CSS
     - SASS(SCSS)
 3. JavaScript
 
-## <a id="lidrery">Використані бібліотеки</a>
+## <a id="lidrery">Використані бібліотеки:</a>
  
 1. jQuery
 2. Magnific-popup
@@ -23,7 +23,7 @@
 4. Scrollmagic
 5. зборка проекта за допомогою Prepross
 
-## <a id="to-do">Що робив</a>
+## <a id="to-do">Що робив:</a>
 
 1. Вьорстка адаптивного, кросбраузерного сайта з макету, використовуючи HTML та SASS(SCSS)
 2. Створення динаміки (інтерактиву), анімацій і ефектів за допомогою JavaScript
@@ -36,7 +36,7 @@
    - тощо
 4. Посадка сайта на  WordPress
 
-## <a id="link" target="_blank" href='https://zencemyday.com/'>посилання на сайт проекту</a>
+:pushpin:  <a id="link" target="_blank" href='https://zencemyday.com/'>посилання на сайт проекту</a> :pushpin:
 ---------------------------------------------------------------------------------
 *** <a id="start">Як запустити проект?</a> ***
 
