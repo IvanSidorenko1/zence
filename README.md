@@ -25,7 +25,7 @@
 3. OwlCarousel2-2.3.4
 4. Scrollmagic
 5. 
-## <a id="link" href="https://zencemyday.com/" target="_blank">посилання на сайт проекту</a>
+## <a id="link" target="_blank" href='https://zencemyday.com/'>посилання на сайт проекту</a>
 ---------------------------------------------------------------------------------
 *** <a id="start">Як запустити проект?</a> ***
 
