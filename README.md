@@ -15,7 +15,7 @@
     - SASS(SCSS)
 3. JavaScript
 
-## <a id="lidrery">Використані бібліотеки:</a>
+## <a id="lidrery">Використані бібліотеки та плагіни:</a>
  
 1. jQuery
 2. Magnific-popup
